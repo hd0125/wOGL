@@ -10,8 +10,8 @@ To install the 'devtools' package in R, you can use the following steps:
 ```
 install.packages('devtools')
 ```
-2. For Windows users, it's also necessary to install Rtools from the following URL:
-   https://cran.r-project.org/bin/windows/Rtools
+2. For Windows users, it's also necessary to install Rtools from the following URL:  
+    - https://cran.r-project.org/bin/windows/Rtools
 4. Once 'devtools' and Rtools are installed, you can load the 'devtools' library and use it to install packages from GitHub:
 ```
 library(devtools)
