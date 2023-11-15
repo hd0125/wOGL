@@ -15,7 +15,7 @@ install.packages('devtools')
 4. Once 'devtools' and Rtools are installed, you can load the 'devtools' library and use it to install packages from GitHub:
 ```
 library(devtools)
-install_github("statddd25/wOGL/wOGL")
+install_github("statddd25/wOGL")
 ```
 
 # Reference
